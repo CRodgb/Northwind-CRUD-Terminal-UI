@@ -40,6 +40,6 @@ cd northwind-crud-terminal-ui
   * **Password:** admin
 * Grant `nwcrud` full privileges on the `northwind` database
 ### 4. Run the application:
-```bash
-python main.py
-```
+  ```bash
+  python main.py
+  ```
