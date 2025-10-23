@@ -1,4 +1,4 @@
-# Northwind-CRUD-Terminal-UI
+# northwind-crud-terminal-ui
 This is a terminal-based Python application for managing the northwind database. It allows users to add customers, orders, print pending orders, remove orders, and ship orders, all from a simple interface.
 
 ## Features  
